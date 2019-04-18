@@ -19,7 +19,56 @@ This is an example exercise.you can type words in here
 
 `@instructions`
 This is an example exercise.you can type words in here
-但是中文來試看看可不可以
+但是中文來試看看可不可以印出 Hello world
+
+學習用
+```
+print("hello world")
+```
+
+`@hint`
+印出“文字”
+
+`@pre_exercise_code`
+```{python}
+# Pre-Exercise code
+print()
+
+```
+
+`@sample_code`
+```{python}
+# Sample code
+
+```
+
+`@solution`
+```{python}
+# Solution
+print("hello world")
+
+```
+
+`@sct`
+```{python}
+# SUBMISSION CORRECTNESS TESTS (SCT)
+print("hello world")
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 5d693bdfd4
+xp: 100
+```
+
+
+
+`@instructions`
+
 
 `@hint`
 
