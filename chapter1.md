@@ -1,10 +1,10 @@
 ---
-title: 'Chapter Title Here'
+title: 'Chapter 1'
 description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Example coding exercise
+## Course 1
 
 ```yaml
 type: NormalExercise
@@ -14,10 +14,12 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise.you can type words in here
+但是中文來試看看可不可以
 
 `@instructions`
-
+This is an example exercise.you can type words in here
+但是中文來試看看可不可以
 
 `@hint`
 
